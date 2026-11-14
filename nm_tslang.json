@@ -1,0 +1,7 @@
+{
+  "name": "nm_tslang",
+  "description": "TypeScript Native Compiler Native Messaging host",
+  "path": "/ABSOLUTE/PATH/TO/native-messaging-tslang/nm_tslang",
+  "type": "stdio",
+  "allowed_origins": []
+}
